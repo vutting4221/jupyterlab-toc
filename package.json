@@ -46,7 +46,7 @@
     "@jupyterlab/docmanager": "^2.0.0",
     "@jupyterlab/docregistry": "^2.0.0",
     "@jupyterlab/fileeditor": "^2.0.0",
-    "@jupyterlab/markdownviewer": "^2.0.0",
+    "@jupyterlab/markdownviewer": "^2.2.6",
     "@jupyterlab/notebook": "^2.0.0",
     "@jupyterlab/rendermime": "^2.0.0",
     "@lumino/algorithm": "^1.2.3",

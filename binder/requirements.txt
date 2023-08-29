@@ -1,1 +1,2 @@
 jupyterlab>=1.0
+jupyter-server>=2.7.2 # not directly required, pinned by Snyk to avoid a vulnerability
